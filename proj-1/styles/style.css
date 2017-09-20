@@ -1,0 +1,64 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #e6ffff;
+}
+
+body {
+    width: 600px;
+    padding: 0 20px 20px 20px;
+    background-color: #95D1D1;
+    margin: 0 auto;
+}
+
+p {
+    width: 250px;
+    color: brown;
+    font-style: oblique;
+    border: 2px solid gray;
+}
+
+ul {
+    color: gray;
+    font-style: italic;
+}
+
+ol {
+    color: lightcoral;
+    font-size: 15px;
+}
+
+h1,h2 {
+    color: 	#7093db;
+    text-align: center;
+    padding: 10px 0;   
+    margin: 0;
+    text-shadow: 3px 3px 1px black;
+}
+
+#id1 {
+    color: green;
+}
+
+img[src] {
+    display: block;
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+a:hover {
+    font-style: italic;
+}
+
+li:hover {
+    font-size: 20px;
+}
+
+button {
+    color: brown;
+    background-color: floralwhite;
+}
+
+#chuser {
+    /*border-style: ridge;*/
+}
